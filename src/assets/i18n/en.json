@@ -152,8 +152,7 @@
     "MORE": "More",
     "NOTES": "Notes",
     "OPTIONS": "Options",
-    "TRANSLATOR": "Translator",
-    "WEB": "Web access"
+    "TRANSLATOR": "Translator"
   },
   "TICKET": {
     "ANYPROBS": "Any problems? Please let me know:",
@@ -166,26 +165,5 @@
     "TICKET": "Bug report",
     "TICKETSENT": "Bug report sent. Thank you",
     "WRONG": "Something went wrong. Please try again later."
-  },
-  "WEB": {
-    "STARTSERVER": "WiFi Start service",
-    "WEB1": "Direct access to your smartphone translation data over WiFi to your computer.",
-    "WEB2": "Both devices have to be in the same WiFi network.",
-    "WEB3": "Open in browser on computer:",
-    "WEB4": "Not recommended in public WiFi networks!"
-  },
-  "WIZARD": {
-    "0": "Whatsapp example workflow",
-    "1": "Copy your Whatsapp message",
-    "10": "Ready to send",
-    "11": "Back to app",
-    "2": "Slide to continue",
-    "3": "Use your task manager to switch to the DeepLapp Translator",
-    "4": "Select languages and hit translate clipboard",
-    "5": "Message successfully translated!",
-    "6": "Let's create the answer now:",
-    "7": "Use the refresh and language button to cleanup for the answer",
-    "8": "Write your answer, translate it and use the share button",
-    "9": "Choose your Whatsapp contact or app"
   }
 }

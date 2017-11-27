@@ -157,24 +157,13 @@
   "TICKET": {
     "ANYPROBS": "Des problèmes? Informez-moi, S'il vous plaît.",
     "FAQ": "FAQ",
+    "FAQAPPLANG": "madamej",
+    "FAQAPPLANGEXIST": "madamej",
+    "FAQAPPLANGTEXT": "madamej",
     "SENDTICKET": "envoyer l'erreur",
     "TEXTHERE": "Entrez le texte ici",
     "TICKET": "Signaler une erreur",
     "TICKETSENT": "Une erreur a été envoyée. merci",
     "WRONG": "Quelque chose a mal tourné. Veuillez réessayer plus tard."
-  },
-  "WIZARD": {
-    "0": "Exemple Whatsapp",
-    "1": "Copiez votre message Whatsapp",
-    "10": "Prêt à envoyer",
-    "11": "Retour à APP",
-    "2": "Essuyer pour continuer",
-    "3": "Utilisez votre gestionnaire de tâches pour passer à DeepLapp Translator.",
-    "4": "Sélectionnez la langue et appuyez sur traduire",
-    "5": "Texte traduit correctement!",
-    "6": "Maintenant créez la réponse:",
-    "7": "Utilisez le bouton Vider et Langue pour effacer la réponse.",
-    "8": "Ecrivez votre réponse et utilisez le bouton Partager",
-    "9": "Choisissez Whatsapp ou votre contact préféré"
   }
 }

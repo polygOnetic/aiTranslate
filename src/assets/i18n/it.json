@@ -162,19 +162,5 @@
     "TICKET": "Segnala un errore",
     "TICKETSENT": "È stato inviato un errore. grazie",
     "WRONG": "Qualcosa è andato storto. Si prega di riprovare più tardi."
-  },
-  "WIZARD": {
-    "0": "Esempio di cossapp",
-    "1": "Copia il tuo messaggio Whatsapp",
-    "10": "Pronto per inviare",
-    "11": "Torna alla APP",
-    "2": "Asciugamano per continuare",
-    "3": "Utilizzare il task manager per passare a DeepLapp Translator.",
-    "4": "Selezionare la lingua e premere il tasto tradurre",
-    "5": "Testo tradotto con successo!",
-    "6": "Ora crea la risposta:",
-    "7": "Utilizzare il pulsante Svuota e Lingua per cancellare la risposta",
-    "8": "Scrivi la tua risposta e usa il pulsante Condividi",
-    "9": "Scegliete Whatsapp o il vostro contatto preferito"
   }
 }

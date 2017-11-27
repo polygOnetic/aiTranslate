@@ -152,8 +152,7 @@
     "MORE": "Mehr",
     "NOTES": "Notizen",
     "OPTIONS": "Optionen",
-    "TRANSLATOR": "Übersetzer",
-    "WEB": "Web Zugriff"
+    "TRANSLATOR": "Übersetzer"
   },
   "TICKET": {
     "ANYPROBS": "Irgendwelche Probleme? Bitte lass es mich wissen:",
@@ -166,26 +165,5 @@
     "TICKET": "Fehler melden",
     "TICKETSENT": "Fehler wurde gesendet. Dankeschön",
     "WRONG": "Irgendetwas ist schief gelaufen. Bitte versuche es Später erneut."
-  },
-  "WEB": {
-    "STARTSERVER": "WiFi Dienst starten",
-    "WEB1": "Direkter Zugriff auf deine Smartphone Übersetzungen über WiFi am Computer.",
-    "WEB2": "Beide Geräte müssen sich im selben WLAN befinden.",
-    "WEB3": "Im Browser am Computer öffnen:",
-    "WEB4": "Nicht in öffentlichen WiFi Netzwerken empfohlen!"
-  },
-  "WIZARD": {
-    "0": "Whatsapp Beispiel",
-    "1": "Kopiere deine Whatsapp Nachricht",
-    "10": "Bereit zum senden",
-    "11": "Zurück zur APP",
-    "2": "Wische um fortzufahren",
-    "3": "Benutze deinen Taskmanager um zum DeepLapp Translator zu wechseln.",
-    "4": "Wähle die Sprache und drücke auf übersetzen",
-    "5": "Text erfolgreich übersetzt!",
-    "6": "Erstelle nun die Antwort:",
-    "7": "Benutze den Leeren und Sprache Knopf um die Antwort zu verfassen",
-    "8": "Schreibe deine Antwort und benutze den teilen Knopf",
-    "9": "Wählen Whatsapp oder deinen gewünschten Kontakt"
   }
 }

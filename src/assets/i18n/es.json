@@ -165,19 +165,5 @@
     "TICKET": "Reportar un error",
     "TICKETSENT": "Informe de errores enviado. Muchas gracias.",
     "WRONG": "Algo salió mal. Vuelve a intentarlo más tarde."
-  },
-  "WIZARD": {
-    "0": "Ejemplo de Whatsapp",
-    "1": "Copia tu mensaje de Whatsapp",
-    "10": "Listo para enviar",
-    "11": "Volver a app",
-    "2": "Desliza para continuar",
-    "3": "Utiliza tu gestor de tareas para cambiar a DeepLapp Translator.",
-    "4": "Selecciona el idioma y toca traducir",
-    "5": "¡Texto traducido correctamente!",
-    "6": "Ahora crea la respuesta:",
-    "7": "Utiliza el botón de actualizar e Idioma para aclarar la respuesta",
-    "8": "Escribe tu respuesta y usa el botón de compartir",
-    "9": "Elige tu Whatsapp o tu contacto favorito."
   }
 }
