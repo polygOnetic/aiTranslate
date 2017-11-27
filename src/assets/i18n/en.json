@@ -157,6 +157,10 @@
   },
   "TICKET": {
     "ANYPROBS": "Any problems? Please let me know:",
+    "FAQ": "FAQ",
+    "FAQAPPLANG": "The app isn't available in my language, can I do anything to change this?",
+    "FAQAPPLANGEXIST": "Existing translations:",
+    "FAQAPPLANGTEXT": "Yes, please check out the following post to get some information about the community based translation possibility:",
     "SENDTICKET": "Send bug report",
     "TEXTHERE": "Enter text here",
     "TICKET": "Bug report",

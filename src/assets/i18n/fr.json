@@ -156,6 +156,7 @@
   },
   "TICKET": {
     "ANYPROBS": "Des problèmes? Informez-moi, S'il vous plaît.",
+    "FAQ": "FAQ",
     "SENDTICKET": "envoyer l'erreur",
     "TEXTHERE": "Entrez le texte ici",
     "TICKET": "Signaler une erreur",

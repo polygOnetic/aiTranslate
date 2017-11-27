@@ -156,6 +156,10 @@
   },
   "TICKET": {
     "ANYPROBS": "¿Algún problema? Por favor, házmelo saber:",
+    "FAQ": "FAQ",
+    "FAQAPPLANG": "isragmc",
+    "FAQAPPLANGEXIST": "isragmc",
+    "FAQAPPLANGTEXT": "isragmc",
     "SENDTICKET": "Enviar un fallo",
     "TEXTHERE": "Escribe aquí",
     "TICKET": "Reportar un error",
