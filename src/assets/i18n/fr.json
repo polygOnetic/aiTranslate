@@ -130,7 +130,6 @@
   },
   "OPTIONS": {
     "APPLANGUAGE": "Langue d'application",
-    "NOTICETTS": "Remarque: Désactivé par défaut, car seule la fonction Android TEXT-TO-SPEEK normale est utilisée ici. Les résultats peuvent être insuffisants, mais ils peuvent être utiles dans certains cas.",
     "OPTIONS": "Options",
     "SPEECHSPEED": "Vitesse de sortie",
     "SURENO": "NON",

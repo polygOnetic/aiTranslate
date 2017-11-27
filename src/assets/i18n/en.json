@@ -130,7 +130,6 @@
   },
   "OPTIONS": {
     "APPLANGUAGE": "App language",
-    "NOTICETTS": "NOTICE: Deactivated by default, because android standard text-to-speech is used for this. Results could be poor, but perhaps a handy tool in some cases.",
     "OPTIONS": "Options",
     "SPEECHSPEED": "Output speed",
     "SURENO": "NO",

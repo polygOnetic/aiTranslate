@@ -130,7 +130,6 @@
   },
   "OPTIONS": {
     "APPLANGUAGE": "Idioma de la aplicación",
-    "NOTICETTS": "NOTA: Desactivado por defecto, ya que Android ya usa el texto a voz de forma predeterminada. Los resultados podrían ser malos, pero quizás una herramienta útil en algunos casos.",
     "OPTIONS": "Opciones",
     "SPEECHSPEED": "Velocidad de salida",
     "SURENO": "NO",

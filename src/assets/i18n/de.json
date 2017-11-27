@@ -130,7 +130,6 @@
   },
   "OPTIONS": {
     "APPLANGUAGE": "App Sprache",
-    "NOTICETTS": "Anmerkung: Standardmäßig deaktiviert, da hier nur die normale Android TEXT-ZU-SPRACHE Funktion genutzt wird. Ergebnisse können sehr ernüchternd sein, aber vielleicht für den ein oder anderen Fall ganz nützlich.",
     "OPTIONS": "Optionen",
     "SPEECHSPEED": "Ausgabegeschwindigkeit",
     "SURENO": "NEIN",
