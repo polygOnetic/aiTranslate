@@ -156,6 +156,8 @@
   "TICKET": {
     "ANYPROBS": "Irgendwelche Probleme? Bitte lass es mich wissen:",
     "FAQ": "FAQ",
+    "FAQ2DEEPLA": "Leider wurde die DeepL Technologie aus der aiTranslate App entfernt, da eine Richtline von DeepL keine Nutzung in aiTranslate erlaubt. aiTranslate nutzt vorerst die Google Übersetzungstechnologie.",
+    "FAQ2DEEPLQ": "Welche Übersetzungstechnologie benutzt aiTranslate?",
     "FAQAPPLANG": "Die App ist nicht in meiner Sprache verfügbar, kann ich etwas tun um das zu ändern?",
     "FAQAPPLANGEXIST": "Existierende Übersetzungen:",
     "FAQAPPLANGTEXT": "Ja, schau dir dazu einfach folgenden Foren Beitrag an um Infomationen zur Möglichkeit der Community basierenden Übersetzung zu bekommen:",

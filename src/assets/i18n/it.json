@@ -156,6 +156,11 @@
   "TICKET": {
     "ANYPROBS": "Problemi? Per favore fatemi sapere.",
     "FAQ": "FAQ",
+    "FAQ2DEEPLA": "empty",
+    "FAQ2DEEPLQ": "empty",
+    "FAQAPPLANG": "empty",
+    "FAQAPPLANGEXIST": "empty",
+    "FAQAPPLANGTEXT": "empty",
     "SENDTICKET": "Invia errore",
     "TEXTHERE": "Inserisci qui il testo",
     "TICKET": "Segnala un errore",
