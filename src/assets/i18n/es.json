@@ -63,7 +63,7 @@
   },
   "HOME": {
     "BASEDON": "Basado en",
-    "CHANGELANGTEXT": "cambiar el idioma de origen a algo que no sea auto",
+    "CHANGELANGTEXT": "Cambiar el idioma de origen a algo que no sea auto",
     "CLEARPAGE": "Página vacía",
     "CLIPBOARD": "Traducir portapapeles",
     "COPIEDCLIPBOARD": "El texto traducido ha sido copiado al portapapeles.",
@@ -156,8 +156,6 @@
   "TICKET": {
     "ANYPROBS": "¿Algún problema? Por favor, házmelo saber:",
     "FAQ": "FAQ",
-    "FAQ2DEEPLA": "empty",
-    "FAQ2DEEPLQ": "empty",
     "FAQAPPLANG": "La aplicación no está disponible en mi idioma, ¿puedo hacer algo para cambiar esto?",
     "FAQAPPLANGEXIST": "Traducciones existentes:",
     "FAQAPPLANGTEXT": "Sí, por favor, consulta el siguiente post para obtener información sobre las traducciones basadas en la comunidad:",
